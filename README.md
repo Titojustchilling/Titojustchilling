@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Titojustchilling
 - 👀 I’m interested in coding ofc 
-- 🌱 I’m currently learning javascript and python. wanna advance in game development doe
-- 💞️ I’m looking to collaborate on tbh if u collab with me imma take 2 months to respond
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python and specializing in data visualization. 
+- 💞️ Free to collaborate on anything
+- 📫 Reach me on here
 
 <!---
 Titojustchilling/Titojustchilling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
